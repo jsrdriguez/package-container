@@ -1,5 +1,6 @@
 {
     "name": "israel/container",
+    "description": "Mi primer paquete",
     "autoload": {
         "psr-4": {
             "Package\\Container\\" : "src/"
